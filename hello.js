@@ -1,1 +1,1 @@
-console.log("teste2")
+const prier = "aaaddsadasd";
